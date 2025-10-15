@@ -24,10 +24,10 @@
 |cdn.jsdelivr.us|    Anycast    |
 
 - 访问地址
-  * 默认版本：https://gcore.jsdelivr.net/gh/cjf717/cdn/
-  * 最后更新版本：https://gcore.jsdelivr.net/gh/cjf717/cdn@latest/
-  * 指定分支版本：https://gcore.jsdelivr.net/gh/cjf717/cdn@main/
-  * 指定标签版本：https://gcore.jsdelivr.net/gh/cjf717/cdn@0.1/
+  * 默认版本：https://gcore.jsdelivr.net/gh/jeff-organ/cdn/
+  * 最后更新版本：https://gcore.jsdelivr.net/gh/jeff-organ/cdn@latest/
+  * 指定分支版本：https://gcore.jsdelivr.net/gh/jeff-organ/cdn@main/
+  * 指定标签版本：https://gcore.jsdelivr.net/gh/jeff-organ/cdn@0.1/
 
 ## 强制更新
 Github文件已更改，jsdelivr CDN没更新。
@@ -46,3 +46,7 @@ https://purge.jsdelivr.net/xxx/xxx...
 然后访问这个文件新 URL 就会提示你刷新成功！记得在调用的网页中强刷新一下
 
 但是这种方式貌似短时间只能用一次，之后更改文件后，在使用就不生效了
+
+## 仓库说明
+- 使用github的共享仓库，由cjf717-sina用户创建，授予cjf54@163.com管理权限。
+- 仓库地址：git@github.com:jeff-organ/cdn.git
